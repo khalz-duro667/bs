@@ -1,0 +1,48 @@
+body{
+  background-color: maroon;
+  color: white;
+
+}
+.e{
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  padding: 10%;
+
+
+  padding: 10px;
+}
+.a{
+
+}
+.t{
+height: 400px;
+width: 400px;
+border-radius: 50%;
+}
+.s{
+  padding-left: 50px;
+  width: 50%;
+}
+.i{
+    padding-left: 50px;
+}
+.d{
+  font-size: 20px;
+}
+.r{
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+}
+button{
+  background-color: violet;
+  color: red;
+  font-size: 50px;
+}
+a{
+  color: red;
+}
+button{
+  border-radius: 50%;
+}
